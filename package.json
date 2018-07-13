@@ -1,0 +1,8 @@
+{
+  "name": "datatable",
+  "description": "A DataTables field for Kirby CMS",
+  "author": "Jens Fendinger <jens@fendinger.de>",
+  "license": "MIT",
+  "version": "1.0",
+  "type": "kirby-field"
+}
