@@ -4,7 +4,7 @@ This custom field for [Kirby CMS](https://getkirby.com) displays Kirby's [Struct
 
 DataTables from [DataTable](https://datatables.net/).
 
-CSS from [Jon Gacnik]https://github.com/jongacnik/kirby-index-field.
+CSS from [Jon Gacnik](https://github.com/jongacnik/kirby-index-field).
 
 ### Blueprint example
 ```yaml
@@ -70,7 +70,7 @@ From the root of your kirby install.
 
 Alternatively you can download the zip file, unzip it's contents into site/fields/datatable.
 
-##Known Issues
+## Known Issues
 
 Some issues related to the structure field of Kirby Panel do also affect the datatable field.
 
