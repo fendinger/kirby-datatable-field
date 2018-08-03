@@ -6,6 +6,8 @@ DataTables from [DataTable](https://datatables.net/).
 
 CSS from [Jon Gacnik](https://github.com/jongacnik/kirby-index-field).
 
+![Kirby DataTables Field Screenshot](https://github.com/fendinger/kirby-datatable-field/raw/master/kirby-datatable-field.png)
+
 ### Blueprint example
 ```yaml
 fields:
@@ -20,7 +22,7 @@ fields:
       picture:
         label: Background Image
         type: image
-      text:
+      headline:
         label: Headline Text
         type: text
 ```
