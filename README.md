@@ -67,7 +67,7 @@ You use it similar to Kirby's [Structure Field](https://getkirby.com/docs/cheats
 
 ## Setup
 
-``git clone https://github.com/JensFendinger/kirby-datatable.git site/fields/datatable``
+``git clone https://github.com/fendinger/kirby-datatable.git site/fields/datatable``
 From the root of your kirby install.
 
 Alternatively you can download the zip file, unzip it's contents into site/fields/datatable.
