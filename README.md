@@ -1,4 +1,4 @@
-# Kirby DataTables Field
+# Kirby 2 DataTables Field
 
 This custom field for [Kirby CMS](https://getkirby.com) displays Kirby's [Structure Field](https://getkirby.com/docs/cheatsheet/panel-fields/structure) as a [DataTable](https://datatables.net/) inside the panel (Kirby's backend).
 
